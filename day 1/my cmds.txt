@@ -1,0 +1,68 @@
+cmds used
+-------------
+
+ls
+ls -a  --> hidden files
+mkdir <folder-name>
+cd <folder-name>
+touch <file-name>
+cat <file-name>
+rm <file-name>
+
+git init 
+-> initialize an empty git rep. (folder)
+
+git status
+-> to see the changes made in the project but they are not saved! (untracked files)
+
+git add .
+-> put these files in the staging area to get their picture clicked.
+
+git commit -m "<msg-here>"
+-> take a snapshot
+
+git restore --staged <file-name>
+-> to remove them from the stage
+
+git log
+-> to check all the history
+
+git reset <hash-code-of the version-you-want>
+
+git stash
+-> keeping the changes you want, but don't want to save it.
+
+git stash pop
+--> bring the changes to the stage
+
+git stash clear
+
+----
+unfinalised code should go in a separate branch
+
+git branch <branch-name>
+--> create a new branch
+
+git checkout <branch-name>
+--> current branch
+--> * -> HEAD
+
+new commits would be on the branch with the HEAD
+
+---
+
+you cannot directly make changes to anyone's account
+you would have to :
+1. fork it
+2. clone it
+
+from where you have forked your project...that url is called an upstream url
+
+for each new feature/bug, create a new branch so that you can create a pull request
+
+rebase
+- pick
+- squash --> s
+
+
+

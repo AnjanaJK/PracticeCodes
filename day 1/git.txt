@@ -1,0 +1,18 @@
+https://www.youtube.com/watch?v=apGV9Kg7ics
+
+saving the history of you project
+
+who where when the changes were made
+
+rep. is a folder where the changes are saved
+
+a version control system
+
+git and github allows hosting our projects/folders/rep. online so ppl all over the world can see and contribute
+
+Terminal :
+allows to manipulate file structure using cmds
+
+.git :
+a git rep. that is hidden file
+the history of changes like insertion, deletion ...

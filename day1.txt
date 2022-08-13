@@ -1,2 +1,14 @@
 Hello
 This is my 1st file.
+
+GIT BASICS
+--------------
+1. Create a repo. on github
+2. In your machine, open git terminal and clone it by the cmd : git clone <url>
+3. git status
+4. git commit -m "<your message>"
+5. git push
+
+git push - sync the changes to the remote repo on github
+
+Those are the four main but there are other advance concepts too like git merge, git diff, git branch, etc
